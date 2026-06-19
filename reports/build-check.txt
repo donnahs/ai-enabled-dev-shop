@@ -1,0 +1,5 @@
+/ HTTP 200 bytes 18035
+/index.html HTTP 200 bytes 18035
+/dev-shop-os.html HTTP 200 bytes 18035
+/client-offer.html HTTP 200 bytes 12816
+/intake.html HTTP 200 bytes 4861
